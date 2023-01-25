@@ -1,6 +1,6 @@
 
 # API Project: Timestamp Microservice for FCC
-[![Run on Repl.it](https://timestamp-microservice.mvlozano.repl.co/)
+[![Run on Repl.it](https://timestamp-microservice.mvlozano.repl.co/)]
 
 ## About
 My solution for the [Timestamp Microservice challenge](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) for the freeCodeCamp API and Microservice certification. It was built based on the boilerplate available [here](https://github.com/freeCodeCamp/boilerplate-project-timestamp/).
