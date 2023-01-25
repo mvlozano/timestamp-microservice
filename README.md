@@ -13,7 +13,7 @@ My solution for the [Timestamp Microservice challenge](https://www.freecodecamp.
 Endpoints | Description | Params
 ----------|-------------|-------------
 GET `/api/:date` | Returns a JSON with the unix and utc values for the date param | date*
-GET `/api/` | //Returns a JSON with the unix and utc values for the current date | none
+GET `/api/` | Returns a JSON with the unix and utc values for the current date | none
 
 #### Example output:
 * GET `/api/2022-9-16` output:`{"unix":1663286400000,"utc":"Fri, 16 Sep 2022 00:00:00 GMT"}`
